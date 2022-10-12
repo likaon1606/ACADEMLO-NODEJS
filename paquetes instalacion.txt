@@ -1,0 +1,14 @@
+//para iniciar el proyecto con express
+npm i
+
+//instalar express
+npm i express
+
+//instalar la dependencia nodemon para que se actualice solo el servidor
+npm i nodemon -D
+
+//instalar Sequelize
+npm i sequelize
+
+//instalar los pg para la base de datos
+npm i pg

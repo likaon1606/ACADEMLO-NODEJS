@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "author": "ariel.fuentesgarcia@gmail.com",
+  "license": "ISC",
+  "description": ""
+}

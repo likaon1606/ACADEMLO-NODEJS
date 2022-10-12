@@ -1,0 +1,3 @@
+npm i sequelize
+
+npm i pg pg-hstore  //para comunicarse con postsgress
